@@ -148,7 +148,7 @@ A curated list of free CS books and their download links.
 
 ## Sensors and Actuator Devices
 
--[“Sensors, Actuators and their Interfaces - A Multidisciplinary Introduction”](<[text](https://dokumen.pub/qdownload/sensors-actuators-and-their-interfaces-a-multidisciplinary-introduction-1785618350-9781785618352.html)>)
+-[“Sensors, Actuators and their Interfaces - A Multidisciplinary Introduction”](https://dokumen.pub/qdownload/sensors-actuators-and-their-interfaces-a-multidisciplinary-introduction-1785618350-9781785618352.html)
 
 -[“A Hands-On Course in Sensors Using the Arduino and Raspberry Pi”](https://www.pdfdrive.com/a-hands-on-course-in-sensors-using-the-arduino-and-raspberry-pi-e176473900#html)
 
@@ -160,7 +160,7 @@ A curated list of free CS books and their download links.
 
 ## Fundamentals of Fog and Edge Computing
 
--[Fog and Edge computing: Principles and Paradigms, 2019](<[text](https://soclibrary.futa.edu.ng/books/Fog%20and%20edge%20computing%20principles%20and%20paradigms%20by%20Buyya,%20Rajkumar%20Srirama,%20Satish%20Narayana%20(z-lib.org).pdf)>)
+-[Fog and Edge computing: Principles and Paradigms, 2019](<https://soclibrary.futa.edu.ng/books/Fog%20and%20edge%20computing%20principles%20and%20paradigms%20by%20Buyya,%20Rajkumar%20Srirama,%20Satish%20Narayana%20(z-lib.org).pdf>)
 
 ## Privacy and Security in IoT
 
